@@ -7,6 +7,7 @@ public class ClassA {
 		
 		System.out.println("Added class A for collaboration");
 
+		System.out.println("Making changes in local branch");
 	}
 
 }
