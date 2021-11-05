@@ -9,4 +9,10 @@ public class ClassA {
 
 	}
 
+	//sum function by @sapna nagpal
+	private void addNumbers(int a, int b)
+	{
+		int c = a+b;
+		System.out.println("Sum = " + c);		
+	}
 }
